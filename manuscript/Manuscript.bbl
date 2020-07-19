@@ -1,0 +1,171 @@
+\begin{thebibliography}{30}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Abadi et~al.(2015)Abadi, Agarwal, Barham, Brevdo, Chen, Citro,
+  Corrado, Davis, Dean, Devin, Ghemawat, Goodfellow, Harp, Irving, Isard, Jia,
+  Jozefowicz, Kaiser, Kudlur, Levenberg, Man\'{e}, Monga, Moore, Murray, Olah,
+  Schuster, Shlens, Steiner, Sutskever, Talwar, Tucker, Vanhoucke, Vasudevan,
+  Vi\'{e}gas, Vinyals, Warden, Wattenberg, Wicke, Yu, and
+  Zheng}]{tensorflow2015-whitepaper}
+Abadi M, Agarwal A, Barham P, Brevdo E, Chen Z, Citro C, Corrado GS, Davis A,
+  Dean J, Devin M, Ghemawat S, Goodfellow I, Harp A, Irving G, Isard M, Jia Y,
+  Jozefowicz R, Kaiser L, Kudlur M, Levenberg J, Man\'{e} D, Monga R, Moore S,
+  Murray D, Olah C, Schuster M, Shlens J, Steiner B, Sutskever I, Talwar K,
+  Tucker P, Vanhoucke V, Vasudevan V, Vi\'{e}gas F, Vinyals O, Warden P,
+  Wattenberg M, Wicke M, Yu Y, Zheng X (2015) {TensorFlow}: Large-scale machine
+  learning on heterogeneous systems. \urlprefix\url{http://tensorflow.org/},
+  software available from tensorflow.org
+
+\bibitem[{Bagnara and Mesnard(2013)}]{bagnara2013eventual}
+Bagnara R, Mesnard F (2013) Eventual linear ranking functions. principles and
+  practice of declarative programming pp 229--238
+
+\bibitem[{Ben-Amram and Genaim(2014)}]{10.1145/2629488}
+Ben-Amram AM, Genaim S (2014) Ranking functions for linear-constraint loops. J
+  ACM 61(4), \doi{10.1145/2629488},
+  \urlprefix\url{https://doi.org/10.1145/2629488}
+
+\bibitem[{Ben-Amram and Genaim(2017)}]{ben2017multiphase}
+Ben-Amram AM, Genaim S (2017) On multiphase-linear ranking functions. In:
+  International Conference on Computer Aided Verification, Springer, pp
+  601--620
+
+\bibitem[{Bradley et~al.(2005{\natexlab{a}})Bradley, Manna, and
+  Sipma}]{bradley2005linear}
+Bradley AR, Manna Z, Sipma HB (2005{\natexlab{a}}) Linear ranking with
+  reachability. In: International Conference on Computer Aided Verification,
+  Springer, pp 491--504
+
+\bibitem[{Bradley et~al.(2005{\natexlab{b}})Bradley, Manna, and
+  Sipma}]{bradley2005polyranking}
+Bradley AR, Manna Z, Sipma HB (2005{\natexlab{b}}) The polyranking principle.
+  In: International Colloquium on Automata, Languages, and Programming,
+  Springer, pp 1349--1361
+
+\bibitem[{Braverman(2006)}]{braverman2006termination}
+Braverman M (2006) Termination of integer linear programs. In: International
+  Conference on Computer Aided Verification, Springer, pp 372--385
+
+\bibitem[{Chen et~al.(2007)Chen, Xia, Yang, Zhan, and
+  Zhou}]{chen2007discovering}
+Chen Y, Xia B, Yang L, Zhan N, Zhou C (2007) Discovering non-linear ranking
+  functions by solving semi-algebraic systems. In: International Colloquium on
+  Theoretical Aspects of Computing, Springer, pp 34--49
+
+\bibitem[{Col{\'o}n and Sipma(2002)}]{colon2002practical}
+Col{\'o}n MA, Sipma HB (2002) Practical methods for proving program
+  termination. In: International Conference on Computer Aided Verification,
+  Springer, pp 442--454
+
+\bibitem[{Col{\'o}on and Sipma(2001)}]{coloon2001synthesis}
+Col{\'o}on MA, Sipma HB (2001) Synthesis of linear ranking functions. In:
+  International Conference on Tools and Algorithms for the Construction and
+  Analysis of Systems, Springer, pp 67--81
+
+\bibitem[{Cousot(2005)}]{cousot2005proving}
+Cousot P (2005) Proving program invariance and termination by parametric
+  abstraction, lagrangian relaxation and semidefinite programming. In:
+  International Workshop on Verification, Model Checking, and Abstract
+  Interpretation, Springer, pp 1--24
+
+\bibitem[{Cousot and Cousot(2012)}]{cousot2012abstract}
+Cousot P, Cousot R (2012) An abstract interpretation framework for termination.
+  ACM SIGPLAN Notices 47(1):245--258
+
+\bibitem[{Fan et~al.(2008)Fan, Chang, Hsieh, Wang, and Lin}]{fan2008liblinear:}
+Fan R, Chang K, Hsieh C, Wang X, Lin C (2008) Liblinear: A library for large
+  linear classification. Journal of Machine Learning Research 9:1871--1874
+
+\bibitem[{Hornik et~al.(1989)Hornik, Stinchcombe, White
+  et~al.}]{hornik1989multilayer}
+Hornik K, Stinchcombe M, White H, et~al. (1989) Multilayer feedforward networks
+  are universal approximators. Neural networks 2(5):359--366
+
+\bibitem[{Hornik et~al.(1990)Hornik, Stinchcombe, and
+  White}]{hornik1990universal}
+Hornik K, Stinchcombe MB, White H (1990) Universal approximation of an unknown
+  mapping and its derivatives using multilayer feedforward networks. Neural
+  Networks 3(5):551--560
+
+\bibitem[{Lecun et~al.(2015)Lecun, Bengio, and Hinton}]{lecun2015deep}
+Lecun Y, Bengio Y, Hinton GE (2015) Deep learning. Nature 521(7553):436--444
+
+\bibitem[{Lee et~al.(2001)Lee, Jones, and Ben-Amram}]{10.1145/373243.360210}
+Lee CS, Jones ND, Ben-Amram AM (2001) The size-change principle for program
+  termination. SIGPLAN Not 36(3):81–92, \doi{10.1145/373243.360210},
+  \urlprefix\url{https://doi.org/10.1145/373243.360210}
+
+\bibitem[{Leike and Heizmann(2014)}]{leike2014ranking}
+Leike J, Heizmann M (2014) Ranking templates for linear loops. In:
+  International Conference on Tools and Algorithms for the Construction and
+  Analysis of Systems, Springer, pp 172--186
+
+\bibitem[{Leshno et~al.(1993)Leshno, Lin, Pinkus, and
+  Schocken}]{leshno1993original}
+Leshno M, Lin V, Pinkus A, Schocken S (1993) Original contribution: Multilayer
+  feedforward networks with a nonpolynomial activation function can approximate
+  any function. Neural Networks 6(6):861--867
+
+\bibitem[{Li et~al.(2016)Li, Zhu, and Feng}]{li2016depth}
+Li Y, Zhu G, Feng Y (2016) The l-depth eventual linear ranking functions for
+  single-path linear constraint loops. In: 2016 10th International Symposium on
+  Theoretical Aspects of Software Engineering (TASE), IEEE, pp 30--37
+
+\bibitem[{Li et~al.(2019{\natexlab{a}})Li, Sun, Li, Turrini, and
+  Zhang}]{li2019synthesizing}
+Li Y, Sun X, Li Y, Turrini A, Zhang L (2019{\natexlab{a}}) Synthesizing nested
+  ranking functions for loop programs via svm. In: International Conference on
+  Formal Engineering Methods, Springer, pp 438--454
+
+\bibitem[{Li et~al.(2019{\natexlab{b}})Li, Wu, and Feng}]{li2019on}
+Li Y, Wu W, Feng Y (2019{\natexlab{b}}) On ranking functions for single-path
+  linear-constraint loops. International Journal on Software Tools for
+  Technology Transfer pp 1--12
+
+\bibitem[{de~Moura and Bj{\o}rner(2008)}]{10.1007/978-3-540-78800-3_24}
+de~Moura L, Bj{\o}rner N (2008) Z3: An efficient smt solver. In: Ramakrishnan
+  CR, Rehof J (eds) Tools and Algorithms for the Construction and Analysis of
+  Systems, Springer Berlin Heidelberg, Berlin, Heidelberg, pp 337--340
+
+\bibitem[{Podelski and Rybalchenko(2004)}]{10.1007/978-3-540-24622-0_20}
+Podelski A, Rybalchenko A (2004) A complete method for the synthesis of linear
+  ranking functions. In: Steffen B, Levi G (eds) Verification, Model Checking,
+  and Abstract Interpretation, Springer Berlin Heidelberg, Berlin, Heidelberg,
+  pp 239--251
+
+\bibitem[{Shen et~al.(2013)Shen, Wu, Yang, and Zeng}]{shen2013generating}
+Shen L, Wu M, Yang Z, Zeng Z (2013) Generating exact nonlinear ranking
+  functions by symbolic-numeric hybrid method. Journal of Systems Science \&
+  Complexity 26(2):291--301
+
+\bibitem[{Tiwari(2004)}]{10.1007/978-3-540-27813-9_6}
+Tiwari A (2004) Termination of linear programs. In: Alur R, Peled DA (eds)
+  Computer Aided Verification, Springer Berlin Heidelberg, Berlin, Heidelberg,
+  pp 70--82
+
+\bibitem[{Turing(1937)}]{turing1937on}
+Turing AM (1937) On computable numbers, with an application to the
+  entscheidungsproblem. Proceedings of The London Mathematical Society
+  41(1):230--265
+
+\bibitem[{Urban(2013)}]{urban2013abstract}
+Urban C (2013) The abstract domain of segmented ranking functions. In:
+  International Static Analysis Symposium, Springer, pp 43--62
+
+\bibitem[{Yuan and Li(2019)}]{yuan2019ranking}
+Yuan Y, Li Y (2019) Ranking function detection via svm: A more general method.
+  IEEE Access 7:9971--9979
+
+\bibitem[{Yuan et~al.(2019)Yuan, Li, and Shi}]{yuan2019detecting}
+Yuan Y, Li Y, Shi W (2019) Detecting multiphase linear ranking functions for
+  single-path linear-constraint loops. International Journal on Software Tools
+  for Technology Transfer pp 1--13
+
+\end{thebibliography}
